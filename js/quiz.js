@@ -11,43 +11,13 @@ function questions(){
       answer: 4
     },
     {
-      country: 'Croatia',
-      capital: ['Zagreb', 'Praia', 'Prague', 'Roseau'],
-      answer: 1
-    },
-    {
-      country: 'Egypt',
-      capital: ['Zagreb', 'Asmara', 'Cairo', 'Malabo'],
-      answer: 3
-    },
-    {
-      country: 'Fiji',
-      capital: ['Dhaka', 'Delhi', 'Calcutta', 'Suva'],
+      country: '(papers)',
+      capital: ['your iPhone?', 'your notebook?', 'your homework?', 'all of these'],
       answer: 4
     },
     {
-      country: 'Cuba',
-      capital: ['Havana', 'Djibouti', 'Santiago', 'Palikir'],
-      answer: 1
-    },
-    {
-      country: 'USA',
-      capital: ['New York', 'Los Angeles', 'Washington', 'London'],
-      answer: 3
-    },
-    {
-      country: 'Vietnam',
-      capital: ['Kiev', 'Hanoi', 'Tashkent', 'Tunis'],
-      answer: 2
-    },
-    {
-      country: 'Zimbabwe',
-      capital: ['Ankara', 'Harare', 'Montevideo', 'Bangkok'],
-      answer: 2
-    },
-    {
-      country: 'Sweden',
-      capital: ['Moscow', 'Amsterdam', 'Dublin', 'Stockholm'],
+      country: 'effects',
+      capital: ['your hygiene items?', 'your medication?', 'your backpack?', 'all of these'],
       answer: 4
     },
     
